@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>SAC13</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Christian Franzl</Authors>
+    <Company>SAC13</Company>
+    <Description>Official implementation of the SAC13 calendar system.</Description>
+    <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/SAC-Thirteen/sac13.net</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
